@@ -1,0 +1,1 @@
+#一个结合mybatisplus映射到controller的全自动框架
